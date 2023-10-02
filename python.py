@@ -1,0 +1,2 @@
+w = input('''
+	user input
